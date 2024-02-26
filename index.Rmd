@@ -3,6 +3,29 @@ title: "Standard Deviations Simulation"
 output: html_document
 ---
 
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **What is Standard Deviation?**
+
+
+### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+
+<a href = "https://crumplab.github.io">
+![](images/logo.png)
+</a>
+</div>
 
 ```{r}
 ## define plot data
