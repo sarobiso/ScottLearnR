@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "Standard Deviations"
 output: html_document
 ---
 
