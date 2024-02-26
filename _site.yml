@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "SD with Scott"
 navbar:
-  title: "MyLabJournal"
+  title: "Standard Deviation Simulation"
   left:
     - text: "Home"
       href: index.html
